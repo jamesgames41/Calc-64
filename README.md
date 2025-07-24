@@ -13,4 +13,4 @@ At the moment Calc 64 support
 - A new modern UI
 - Realeses for more platforms
 # Bugs
-- only able to do one calculaton as the reset buton isnt working
+- Only able to do one calculaton as the reset buton isnt working
