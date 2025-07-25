@@ -6,11 +6,13 @@ At the moment Calc 64 support
 - Division (no negertives for now)
 - Subtraction (no negertives for now)
 - Adding
+- Area of a 2d shape (rectangle and square only)
+- A simmple UI
 # Planed Features
-- Area of a 2d shape
+- Area of a 2d shape (triangle and more )
 - Volume of a 3d shape
 - Multiplication, division, subtraction and adding of fractions
 - A new modern UI
 - Realeses for more platforms
 # Bugs
-- Only able to do one calculaton as the reset buton isnt working
+- No bugs are know at the moment 
